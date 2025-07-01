@@ -4,6 +4,7 @@ Public notes
 2FA/MFA/OTP Bypass
 
 https://book.hacktricks.wiki/en/pentesting-web/2fa-bypass.html
+
 https://azwi.medium.com/2-factor-authentication-bypass-3b2bbd907718
 
 
